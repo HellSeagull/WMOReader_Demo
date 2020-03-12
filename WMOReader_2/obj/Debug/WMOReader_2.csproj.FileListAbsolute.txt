@@ -1,0 +1,6 @@
+C:\Users\HalZo\source\repos\WMOReader_2\WMOReader_2\obj\Debug\WMOReader_2.csproj.CoreCompileInputs.cache
+C:\Users\HalZo\source\repos\WMOReader_2\WMOReader_2\bin\Debug\WMOReader_2.exe
+C:\Users\HalZo\source\repos\WMOReader_2\WMOReader_2\bin\Debug\WMOReader_2.pdb
+C:\Users\HalZo\source\repos\WMOReader_2\WMOReader_2\obj\Debug\WMOReader_2.csprojAssemblyReference.cache
+C:\Users\HalZo\source\repos\WMOReader_2\WMOReader_2\obj\Debug\WMOReader_2.exe
+C:\Users\HalZo\source\repos\WMOReader_2\WMOReader_2\obj\Debug\WMOReader_2.pdb
